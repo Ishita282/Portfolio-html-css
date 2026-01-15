@@ -40,9 +40,10 @@ It demonstrates my ability to build clean, user-friendly web interfaces using HT
 ---
 
 ## Contact
-- **Email:** ishita@example.com  
-- **LinkedIn:** [linkedin.com/in/ishitasharma](https://linkedin.com/in/ishitasharma)  
-- **GitHub:** [github.com/ishitasharma](https://github.com/ishitasharma)  
+- **Email:** ishitasharma2428@gmail.com
+- **LinkedIn:** [linkedin.com/in/ishitasharma](www.linkedin.com/in/ishita-sharma-2a5a76224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+)  
+- **GitHub:** [github.com/ishitasharma](https://github.com/Ishita282)  
 
 ---
 
